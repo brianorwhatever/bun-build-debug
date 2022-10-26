@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "itty-router": "^2.6.6"
+  },
+  "devDependencies": {
+    "bun-types": "^0.2.1"
+  }
+}

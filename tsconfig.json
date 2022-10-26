@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "declaration": true,
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitReturns": false,
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "target": "ESNext",
+    "types": ["bun-types"],
+  },
+  "include": ["src/**/*.ts"]
+}
